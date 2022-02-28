@@ -1,9 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import './style.css'
 import quotes from'./quotes.json'
 import Sentences from './components/Sentences';
-import Icon from './components/Icon';
 
 
 
